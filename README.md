@@ -26,7 +26,7 @@ Your task: Build an interactive **Tableau dashboard** that helps answer key busi
 > 📍 *Below are snapshots from the interactive Tableau dashboard.*
 
 ### 🔟 Top 10 Earners
-![Top 10 Earners](images/top-ten-earners.png)
+![Top 10 Earners](images/top-ten-earners.PNG)
 
 ### 💵 Price vs Revenue
 ![Price vs Revenue](images/relationship-between-price-and-earning.PNG)
